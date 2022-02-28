@@ -1,5 +1,4 @@
-import { Vector } from "p5";
-import p5 = require("p5");
+import p5, { Vector } from "p5";
 
 class Boundary {
   a: Vector;
